@@ -1,4 +1,4 @@
-## Hola, Soy Alejandro Parias Moreno 👋
+## Hola, Soy Alejandro 👋
 
 Sobre mi
 
