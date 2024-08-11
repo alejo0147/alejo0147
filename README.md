@@ -4,7 +4,9 @@
 <h3 align="left">Apasionado por desarrollo backend</h3>
 <!-- img align="right" alt="Coding" width="300" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp" /-->
 
-<img align="right" alt="Coding" width="300" height="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" />
+<!-- img align="right" alt="Coding" width="300" height="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" /-->
+<img align="right" alt="Coding" width="300" height="300" src="[https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnAybTJlNndidTdzbHAwZHh1NWxyN3B2eDMyNWN5cXI4eTZvcjg5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.webp
+)" />
 
 - 🌱  Actualmente estoy profundizando conocimientos en **Docker, Spring y Kubernetes.**
 
