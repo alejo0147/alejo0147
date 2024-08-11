@@ -9,8 +9,7 @@
 
 <h3 align="left">Puedes encontrarme en:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/alejandro-parias-moreno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-   
-   readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-parias-moreno/" height="33" width="33" />
+<a href="https://linkedin.com/in/www.linkedin.com/in/alejandro-parias-moreno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-parias-moreno/" height="30" width="40" />
 </a>
 </p>
 
