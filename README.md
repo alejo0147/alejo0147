@@ -1,7 +1,7 @@
 ![MasterHead]()
 
 <h1 align="center">Hola 👋, soy Alejandro</h1>
-<h3 align="center">Apasionado por desarrollo backend</h3>
+<h3 align="left">Apasionado por desarrollo backend</h3>
 <img align="right" alt="Coding" width="300" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp" />
 
 
