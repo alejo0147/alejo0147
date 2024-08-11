@@ -1,4 +1,4 @@
-![MasterHead](https://www.evidencebasedmentoring.org/wp-content/uploads/2018/07/programming-1857236_1280.jpg)
+![MasterHead]()
 
 <h1 align="center">Hola 👋, soy Alejandro</h1>
 <h3 align="center">Apasionado por desarrollo backend</h3>
