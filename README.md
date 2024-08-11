@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola 👋, soy Alejandro</h1>
 <h3 align="center">Apasionado por desarrollo backend</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhhMm0zMndpZXNmYWc0cHBwNmx5amY5MTl3bnJoZzQ3dnN4ZWRtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.webp" />
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhhMm0zMndpZXNmYWc0cHBwNmx5amY5MTl3bnJoZzQ3dnN4ZWRtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.webp" />
 
 - 🌱  Actualmente estoy profundizando conocimientos en **Docker, Spring y Kubernetes.**
 
