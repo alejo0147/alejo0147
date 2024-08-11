@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Alejandro</h1>
 <h3 align="center">Apasionado por desarrollo backend</h3>
 
-- 🌱  Actualmente estoy profundizando en **Docker, Spring y Kubernetes.**
+- 🌱  Actualmente estoy profundizando conocimientos en **Docker, Spring y Kubernetes.**
 
 <h3 align="left">Puedes encontrarme en:</h3>
 <p align="left">
