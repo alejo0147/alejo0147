@@ -7,13 +7,13 @@
 
 - 🌱  Actualmente estoy profundizando conocimientos en **Docker, Spring y Kubernetes.**
 
-<h3 align="left">Puedes encontrarme en:</h3>
+<h4 align="left">Puedes encontrarme en:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/alejandro-parias-moreno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-parias-moreno/" height="25" width="25" />
 </a>
 </p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h4 align="left">Lenguajes y herramientas:</h4>
 <p align="left">
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="32" width="32"/>
