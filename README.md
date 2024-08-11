@@ -8,7 +8,9 @@
 
 <h3 align="left">Puedes encontrarme en:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/alejandro-parias-moreno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-parias-moreno/" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/alejandro-parias-moreno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-   
+   readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-parias-moreno/" height="30" width="30" />
+</a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
@@ -55,7 +57,8 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
   </a>
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30" 
+       style="margin-right: 10px;"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
