@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola 👋, soy Alejandro</h1>
 <h3 align="center">Apasionado por desarrollo backend</h3>
-<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" />
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" />
 
 - 🌱  Actualmente estoy profundizando conocimientos en **Docker, Spring y Kubernetes.**
 
