@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/C4D16AQFTeWqx9BuZKw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1572774406923?e=1729123200&v=beta&t=2DEA01S3xqHpUCPI4LjNsk9oiq9a-6rNjIf_8uRJwDY)
+![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif=
 
 <h2 align="center">Hola 👋, soy Alejandro</h2>
 <h3 align="left">Apasionado por desarrollo backend</h3>
