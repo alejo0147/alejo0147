@@ -2,7 +2,8 @@
 
 <h1 align="center">Hola 👋, soy Alejandro</h1>
 <h3 align="center">Apasionado por desarrollo backend</h3>
-<img align="right" alt="Coding" width="300 height="300"" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp"/>
+<img align="right" alt="Coding" width="300 height="300"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp"
+style="border: 8px" />
 
 
 - 🌱  Actualmente estoy profundizando conocimientos en **Docker, Spring y Kubernetes.**
@@ -17,7 +18,7 @@
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
    </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> 
