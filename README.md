@@ -8,7 +8,7 @@
 <!-- img align="right" alt="Coding" width="300" height="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" /-->
 <img align="right" alt="Coding" width="300" height="200" src="https://camo.githubusercontent.com/53e2d5e6937554a96b9299b5d38e39080ab9281af5c888aa5b06b86312ccdccd/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41" />
 
-- 🌱 **Spring boot, Docker, Kubernetes**
+- 🌱 **Spring boot, Node JS, Docker, Kubernetes**
 
 <h4 align="left">Puedes encontrarme en:</h4>
 <p align="left">
