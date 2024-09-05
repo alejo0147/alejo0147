@@ -6,7 +6,7 @@
 <!-- img align="right" alt="Coding" width="300" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp" /-->
 
 <!-- img align="right" alt="Coding" width="300" height="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" /-->
-<img align="right" alt="Coding" width="300" height="200" src="https://camo.githubusercontent.com/53e2d5e6937554a96b9299b5d38e39080ab9281af5c888aa5b06b86312ccdccd/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41" />
+<img align="right" alt="Coding" width="300" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQySVV7MgTzMqoY2WWzoq0X42ABZGTROvn8_A&s" />
 
 - 🌱 **Spring boot, Node JS, Docker, Kubernetes**
 
