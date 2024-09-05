@@ -64,7 +64,7 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <!-- img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="25" width="25"/ --> 
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUN-ft8N3x0Sg1dtmVWTWjI7JziZ9AOKjwCA&s" alt="git" height="25" width="25"/> 
+      <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUN-ft8N3x0Sg1dtmVWTWjI7JziZ9AOKjwCA&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlfxONoTp7caZPgKKR5mk3tqU65-VA09Wgw&s)" alt="git" height="25" width="25"/> 
   </a> 
 </p>
 
