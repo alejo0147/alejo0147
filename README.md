@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="25" width="25"/>
    </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="25" width="25"/> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="22" width="22"/> 
   </a>
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" 
@@ -40,7 +40,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <!-- img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" 
      height="25" width="25"/ -->
-     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Light.svg" alt="express" height="20" width="20"/>
+     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Light.svg" alt="express" height="22" width="22"/>
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="25" width="25"/> 
@@ -81,7 +81,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="25" width="25"/> 
   </a> 
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" alt="git" height="20" width="20"/> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" alt="git" height="22" width="22"/> 
   </a> 
 </p>
 
