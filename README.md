@@ -40,7 +40,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <!-- img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" 
      height="25" width="25"/ -->
-     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Light.svg" alt="express" height="17" width="17"/>
+     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Light.svg" alt="express" height="20" width="20"/>
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="25" width="25"/> 
@@ -48,8 +48,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" 
      height="25" width="25"/ --> 
-     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" alt="bootstrap" 
-     height="25" width="25"/> 
+     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" alt="bootstrap" height="20" width="20"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="25" 
@@ -82,7 +81,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="25" width="25"/> 
   </a> 
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" alt="git" height="25" width="25"/> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" alt="git" height="20" width="20"/> 
   </a> 
 </p>
 
