@@ -79,5 +79,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="25" width="25"/> 
   </a> 
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" alt="git" height="25" width="25"/> 
+  </a> 
 </p>
 
