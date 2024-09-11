@@ -6,73 +6,30 @@
 
 - 🌱 **Spring boot, Node JS, Docker, Kubernetes**
 
-<h4 align="left">Puedes encontrarme en:</h4>
-<p align="left">
-  <a href="https://www.linkedin.com/in/alejandro-parias-moreno/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-parias-moreno/" height="20" width="20" />
-  </a>
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Contenido de la izquierda -->
+  <div style="flex: 1;">
+    <h4 align="left">Puedes encontrarme en:</h4>
+    <p align="left">
+      <a href="https://www.linkedin.com/in/alejandro-parias-moreno/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Alejandro Parias Moreno" height="20" width="20" />
+        www.linkedin.com/in/alejandro-parias-moreno/
+      </a>
+    </p>
 
-<img align="right" alt="Coding" width="300" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp" />
+  <h4 align="left">Lenguajes y herramientas:</h4>
+    <!-- Logos de lenguajes y herramientas -->
+    <p align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+      <!-- Agrega más logos aquí -->
+    </p>
+  </div>
 
-<h4 align="left">Lenguajes y herramientas:</h4>
-<p align="left">
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="25" width="25"/>
-   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="22" width="22"/> 
-  </a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" 
-     height="25" width="25"/> 
-  </a>
-  <!-- a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" height="25" width="25"/> 
-  </a--> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" 
-     height="25" width="25"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" 
-     height="25" width="25"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="25" width="25"/> 
-  </a>   
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" 
-     height="25" width="25"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="25" 
-     width="25"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="25" 
-     width="25"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" 
-     height="25" width="25"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="25" 
-     width="25"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-     alt="postgresql" height="25" width="25"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="25" width="25"/> 
-  </a>
-   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-   alt="aws" height="25" width="25"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="25" width="25"/> 
-  </a> 
-</p>
+  <!-- Imagen a la derecha -->
+  <div style="flex: 1; text-align: right;">
+    <img src="https://via.placeholder.com/150" alt="Imagen de perfil" style="border-radius: 50%;" width="150" />
+  </div>
+</div>
+
