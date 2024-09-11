@@ -3,19 +3,18 @@
 
 <h1 align="center">Hola 👋, soy Alejandro</h1>
 <h2 align="center">💻Apasionado por el desarrollo🖥</h2>
-<!-- img align="right" alt="Coding" width="300" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp" /-->
 
-<!-- img align="right" alt="Coding" width="300" height="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" /-->
-<!--img align="right" alt="Coding" width="300" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQySVV7MgTzMqoY2WWzoq0X42ABZGTROvn8_A&s" / -->
-<img align="right" alt="Coding" width="300" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjM6EYJ4yOP-9Pq2ZOyIj0cxls_f_kqUO_w&s"/>
+<p align="left">
+  - 🌱 **Spring boot, Node JS, Docker, Kubernetes**
+</p>
 
-
-- 🌱 **Spring boot, Node JS, Docker, Kubernetes**
+<img align="right" alt="Coding" width="300" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjM6EYJ4yOP-9Pq2ZOyIj0cxls_f_kqUO_w&s" style="float: right; margin-left: 20px;"/>
 
 <h4 align="left">Puedes encontrarme en:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/alejandro-parias-moreno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-parias-moreno/" height="20" width="20" />
-</a>
+  <a href="https://www.linkedin.com/in/alejandro-parias-moreno/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-parias-moreno/" height="20" width="20" />
+  </a>
 </p>
 
 <h4 align="left">Lenguajes y herramientas:</h4>
