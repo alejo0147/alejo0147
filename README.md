@@ -7,7 +7,7 @@
 
 <!-- img align="right" alt="Coding" width="300" height="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" /-->
 <!-- img align="right" alt="Coding" width="300" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQySVV7MgTzMqoY2WWzoq0X42ABZGTROvn8_A&s" / -->
-<img align="right" alt="Coding" width="300" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjM6EYJ4yOP-9Pq2ZOyIj0cxls_f_kqUO_w&s"/>
+<img align="right" alt="Coding" width="300" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjM6EYJ4yOP-9Pq2ZOyIj0cxls_f_kqUO_w&s"/>
 
 
 - 🌱 **Spring boot, Node JS, Docker, Kubernetes**
@@ -38,9 +38,10 @@
      height="25" width="25"/> 
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <!-- img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" 
-     height="25" width="25"/ -->
-     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Light.svg" alt="express" height="22" width="22"/>
+    < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" 
+     height="25" width="25"/>
+     <!--img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Light.svg"    
+       alt="express" height="22" width="22"/-->
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="25" width="25"/> 
