@@ -38,7 +38,7 @@
      height="25" width="25"/> 
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" 
      height="25" width="25"/>
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
