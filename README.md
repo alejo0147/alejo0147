@@ -4,8 +4,6 @@
 <h1 align="center">Hola 👋, soy Alejandro</h1>
 <h2 align="center">💻Apasionado por el desarrollo🖥</h2>
 
-<img align="right" alt="Coding" width="300" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp" />
-
 - 🌱 **Spring boot, Node JS, Docker, Kubernetes**
 
 <h4 align="left">Puedes encontrarme en:</h4>
@@ -15,6 +13,7 @@
   </a>
 </p>
 
+<img align="right" alt="Coding" width="300" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp" />
 
 <h4 align="left">Lenguajes y herramientas:</h4>
 <p align="left">
@@ -77,4 +76,3 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="25" width="25"/> 
   </a> 
 </p>
-
