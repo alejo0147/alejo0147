@@ -3,11 +3,11 @@
 <h1 align="center">Hola 👋, soy Alejandro</h1>
 <h2 align="center">💻Apasionado por el desarrollo🖥</h2>
 
+ <!--img align="right" title="Gif" alt="Coding" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp"-->
+
 <p style="display: inline;" align="left"> 
   <img src="https://komarev.com/ghpvc/?username=alejo0147&label=Profile%20views&color=0e75b6&style=flat" alt="alejo0147" /> </p>
-<p style="display: inline;" align="right"> 
-  <img align="right" title="Gif" alt="Coding" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp">
-</p>
+<!--p style="display: inline;" align="right"></p-->
 
 - 🌱 Actualmente estoy aprendiendo **AWS Docker, Kubernetes**
 
