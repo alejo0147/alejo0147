@@ -3,7 +3,8 @@
 
 <h1 align="center">Hola 👋, soy Alejandro</h1>
 <h2 align="center">💻Apasionado por el desarrollo🖥</h2>
-<img align="right" alt="Coding" width="300" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp" style="float: right;" />
+
+<img align="right" alt="Coding" width="300" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp" />
 
 - 🌱 **Spring boot, Node JS, Docker, Kubernetes**
 
@@ -41,9 +42,8 @@
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="25" width="25"/> 
   </a>   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" 
-     height="25" width="25"/ --> 
-     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" alt="bootstrap" height="20" width="20"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" 
+     height="25" width="25"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="25" 
@@ -75,8 +75,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="25" width="25"/> 
   </a> 
-  <!--a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" alt="git" height="22" width="22"/> 
-</a --> 
 </p>
 
