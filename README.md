@@ -4,11 +4,9 @@
 <h1 align="center">Hola 👋, soy Alejandro</h1>
 <h2 align="center">💻Apasionado por el desarrollo🖥</h2>
 
-<p align="left">
-  - 🌱 **Spring boot, Node JS, Docker, Kubernetes**
-</p>
+<img align="right" alt="Coding" width="200" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjM6EYJ4yOP-9Pq2ZOyIj0cxls_f_kqUO_w&s" style="float: right; margin-left: 20px;"/>
 
-<img align="right" alt="Coding" width="300" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjM6EYJ4yOP-9Pq2ZOyIj0cxls_f_kqUO_w&s" style="float: right; margin-left: 20px;"/>
+- 🌱 **Spring boot, Node JS, Docker, Kubernetes**
 
 <h4 align="left">Puedes encontrarme en:</h4>
 <p align="left">
