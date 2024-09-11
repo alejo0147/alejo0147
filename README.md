@@ -1,26 +1,20 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<!--![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)-->
-
-<h1 align="center">Hola 👋, soy Alejandro</h1>
-<h2 align="center">💻Apasionado por el desarrollo🖥</h2>
-<!-- img align="right" alt="Coding" width="300" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemludTJvZzhkNjZubjRnbXM5bHk5NTBweWN2ajhrNm1jMWJ2OW94ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.webp" /-->
-
-<!-- img align="right" alt="Coding" width="300" height="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" /-->
-<!--img align="right" alt="Coding" width="300" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQySVV7MgTzMqoY2WWzoq0X42ABZGTROvn8_A&s" / -->
-<img align="right" alt="Coding" width="300" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjM6EYJ4yOP-9Pq2ZOyIj0cxls_f_kqUO_w&s"/>
-
-
-- 🌱 **Spring boot, Node JS, Docker, Kubernetes**
-
-<h4 align="left">Puedes encontrarme en:</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/alejandro-parias-moreno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-parias-moreno/" height="20" width="20" />
-</a>
-</p>
-
-<h4 align="left">Lenguajes y herramientas:</h4>
-<p align="left">
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">
+    <h1 align="center">Hola 👋, soy Alejandro</h1>
+    <h2 align="center">💻Apasionado por el desarrollo🖥</h2>
+    <p align="left">
+      - 🌱 **Spring boot, Node JS, Docker, Kubernetes**
+    </p>
+    <h4 align="left">Puedes encontrarme en:</h4>
+    <p align="left">
+      <a href="https://www.linkedin.com/in/alejandro-parias-moreno/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-parias-moreno/" height="20" width="20" />
+      </a>
+    </p>
+    <h4 align="left">Lenguajes y herramientas:</h4>
+    <p align="left">
+      <!-- Aquí los íconos de lenguajes y herramientas -->
+       <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="25" width="25"/>
    </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
@@ -81,6 +75,11 @@
   </a> 
   <!--a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" alt="git" height="22" width="22"/> 
-</a --> 
-</p>
+</a -->
+    </p>
+  </div>
 
+  <div style="flex: 1;">
+    <img align="right" alt="Coding" width="300" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjM6EYJ4yOP-9Pq2ZOyIj0cxls_f_kqUO_w&s" />
+  </div>
+</div>
