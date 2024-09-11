@@ -69,7 +69,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle" alt="oracle" width="20" height="20"/> 
   </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title=""Postgres alt="postgresql" width="20" 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="postgresql" width="20" 
      height="20"/> 
   </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
