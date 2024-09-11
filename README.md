@@ -13,7 +13,6 @@
     <p align="left">
       <a href="https://www.linkedin.com/in/alejandro-parias-moreno/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Alejandro Parias Moreno" height="20" width="20" />
-        www.linkedin.com/in/alejandro-parias-moreno/
       </a>
     </p>
 
