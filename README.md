@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=alejo0147&label=Profile%20views&color=0e75b6&style=flat" alt="alejo0147" /> </p>
 <!--p style="display: inline;" align="right"></p-->
 
-- 🌱 Actualmente estoy aprendiendo **AWS Docker, Kubernetes**
+- 🌱 Actualmente estoy aprendiendo **AWS, Docker y Kubernetes**
 
 <h4 align="left">Puedes encontrarme en:</h4>
 <p align="left">
